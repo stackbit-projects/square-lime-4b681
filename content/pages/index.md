@@ -84,6 +84,7 @@ sections:
           - label: Learn More
             url: /overview
             style: link
+        image: /images/1.jpg
       - title: Showcase
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
